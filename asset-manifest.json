@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GavnishNewsApp/static/css/main.f19993f0.css",
+    "main.js": "/GavnishNewsApp/static/js/main.c143bb46.js",
+    "static/js/787.4c026eef.chunk.js": "/GavnishNewsApp/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/GavnishNewsApp/static/media/loading.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/GavnishNewsApp/index.html",
+    "main.f19993f0.css.map": "/GavnishNewsApp/static/css/main.f19993f0.css.map",
+    "main.c143bb46.js.map": "/GavnishNewsApp/static/js/main.c143bb46.js.map",
+    "787.4c026eef.chunk.js.map": "/GavnishNewsApp/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f19993f0.css",
+    "static/js/main.c143bb46.js"
+  ]
+}
