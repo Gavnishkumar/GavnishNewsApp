@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+/* my css */
+
+.text-muted{
+  font-size: 12px;
+}
+.myimage{
+  height: 47px;
+  width: 47px;
+  border-radius: 50px;
+}
+.card-img-top{
+  height: 216px;
+  width: 338px;
+}
+.mycard{
+  height: 500px;
+}
